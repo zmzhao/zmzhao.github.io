@@ -25,7 +25,7 @@ Current projects
 6. EU Horizon Europe **[Blue-Cloud 2026](https://blue-cloud.org/blue-cloud-2026)** (A federated European FAIR and Open Research Ecosystem for oceans, seas, and inland waters). Grant No. [101094227](https://cordis.europa.eu/project/id/101094227), [HORIZON-INFRA-2022-EOSC-01-03](https://cordis.europa.eu/programme/id/HORIZON_HORIZON-INFRA-2022-EOSC-01-03/en) call. Duration: January 2023 – June 2026.
 
 ### Participating via LifeWatch VLIC
-7. EU Horizon Europe **[BMD](https://biodt.eu/)** (Biodiversity Meets Data). Grant No. [101057437](https://cordis.europa.eu/project/id/101094227), HORIZON-INFRA-2021-TECH-01-01 call. Duration: March 2025 – February 2028.
+7. EU Horizon Europe **[BMD](https://cordis.europa.eu/project/id/101181294)** (Biodiversity Meets Data). Grant No. [101181294](https://cordis.europa.eu/project/id/101181294), HORIZON-CL6-2024-BIODIV-01-2 call. Duration: March 2025 – February 2029.
 
 Finished projects
 ======
